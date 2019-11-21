@@ -2,7 +2,7 @@ numpy
 seaborn
 pandas
 networkx
-matplotlib.pyplot
+matplotlib
 nltk
 
 
