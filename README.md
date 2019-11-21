@@ -8,4 +8,4 @@ Please create own public GitHub repositories to submit solutions for our advance
 
 You can use your repositories to create own binder repositories aswell (general overview here https://www.youtube.com/watch?v=OK6M4w7LYIc).
 
-<a href="https://www.youtube.com/watch?v=OK6M4w7LYIc" rel="nofollow">vid</a>
+<a href="https://www.youtube.com/watch?v=OK6M4w7LYIc">vid</a>
