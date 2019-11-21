@@ -1,3 +1,7 @@
-# LSzPyPub
+# hello ITdigital
 
-README TEST
+In this GitHub repository you will find everything used to create our binder repository.
+
+Please create own public GitHub repositories to submit solutions for our advanced tasks. 
+
+You can use your repositories to create own binder repositories aswell.
