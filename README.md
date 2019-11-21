@@ -1,6 +1,6 @@
 # hello ITdigital
 
-In this GitHub repository you will find everything used to create our binder repository.
+In this GitHub repository you will find everything used to create our binder repository:
 
 https://mybinder.org/v2/gh/LSzCode/LSzPyPub/master
 
